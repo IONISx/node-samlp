@@ -1,7 +1,8 @@
 {
   "name": "samlp",
   "version": "3.3.3",
-  "description": "SAML Protocol server middleware",
+  "private": true,
+  "description": "SAML Protocol server middleware (IonisX Version)",
   "main": "lib/index.js",
   "scripts": {
     "test": "./node_modules/.bin/_mocha -R spec",
