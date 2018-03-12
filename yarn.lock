@@ -841,6 +841,10 @@ xmldom@=0.1.19, xmldom@~0.1.15:
   version "0.1.19"
   resolved "https://github.com/auth0/xmldom/tarball/master#62af710fc82d42956d8e6918bd1bacf85163cb37"
 
+xmldom@auth0/xmldom#v0.1.19-auth0_1:
+  version "0.1.19"
+  resolved "https://codeload.github.com/auth0/xmldom/tar.gz/3376bc7beb5551bf68e12b0cc6b0e3669f77d392"
+
 xpath.js@>=0.0.3:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/xpath.js/-/xpath.js-1.0.7.tgz#7e94627f541276cbc6a6b02b5d35e9418565b3e4"
